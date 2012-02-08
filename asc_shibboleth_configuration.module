@@ -1,0 +1,3 @@
+<?php
+
+include_once('asc_shibboleth_configuration.features.inc');
